@@ -1,0 +1,7 @@
+.git
+.idea
+.vscode
+bin
+migrations/*.tmp
+*.swp
+*.log
